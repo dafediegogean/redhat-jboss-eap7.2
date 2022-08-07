@@ -37,7 +37,7 @@
         <extension module="org.wildfly.extension.undertow"/>
     </extensions>
     <system-properties>
-        <property name="DB.HOST" value="192.168.99.100"/>
+        <property name="<ENV_VAR_NAME>" value="<ENV_VAR_VALUE_HOST>"/>
     </system-properties>
     <management>
         <security-realms>
