@@ -38,6 +38,7 @@
     </extensions>
     <system-properties>
         <property name="<ENV_VAR_NAME>" value="<ENV_VAR_VALUE_HOST>"/>
+        <!-- <property name="DB.HOST" value="192.168.99.100"/> --> <!-- Docker host / Oracle 18c -->
     </system-properties>
     <management>
         <security-realms>
