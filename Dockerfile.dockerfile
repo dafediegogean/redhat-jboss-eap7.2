@@ -1,6 +1,6 @@
 # dockerfile to build image for JBoss EAP 7.2
 
-# start from rhel 7.2
+# start from rhel 7.1
 FROM rhel
 
 # file author / maintainer
