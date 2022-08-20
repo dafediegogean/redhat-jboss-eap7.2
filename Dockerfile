@@ -1,4 +1,4 @@
-# dockerfile to build image for JBoss EAP 7.2
+# dockerfile to build image for JBoss EAP 7.2 
 
 #start from eap72-openshift
 FROM registry.access.redhat.com/jboss-eap-7/eap72-openshift
